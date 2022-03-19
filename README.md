@@ -3,15 +3,19 @@
 
 TinJob App / Cours FLUTTER :
 
-- [Application TinJob](#application-cv)
+- [Application TinJob](#application-tinjob)
   * [A propos du projet](#a-propos-du-projet)
-  * [IHM Profil](#ihm-profil)
-  * [IHM Experiences](#ihm-experiences)
-  * [IHM Formations](#ihm-formations)
-  * [IHM Compétences](#ihm-compétences)
-  * [IHM Informations](#ihm-informations)
+    + [IHM Accueil](#ihm-accueil)
+    + [IHM Map](#ihm-map)
+    + [IHM Statistiques](#ihm-statistiques)
+    + [IHM A propos](#ihm-a-propos)
+    + [IHM Swipe](#ihm-swipe)
+    + [IHM Refus](#ihm-refus)
+    + [IHM Admis](#ihm-admis)
+  * [Page candidats et détails](#page-candidats-et-détails)
+    + [IHM Admis](#ihm-admis-1)
 
-### Video de l'ensemble de l'application.
+### Video de l'application.
 
 
 | Prévisualisation du projet  | Nota | 

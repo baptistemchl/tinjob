@@ -26,7 +26,7 @@ TinJob App / Cours FLUTTER :
 
 | Commentaires sur le projet | Difficultés principales | Evolutions envisagées |
 | :---:      |     :---:      |         :---: |
-| Projet que je souhaitais réaliser pour mon propre compte. Celui-ci n'est pas terminé, loin de là, mais l'objectif était de faire une première ébauche, j'ai pris beaucoup de plaisir à le mettre en place. | Réussir l'update : Merci beaucoup pour le coup de main. Globalement, un peu de mal avec la doc Firebase, mais une fois compris ça roule seul.    | L'objectif est de faire évoluer le projet dans son ensemble : Inscription, authentification etc..  |
+| Projet que je souhaitais réaliser pour mon propre compte. Celui-ci n'est pas terminé, loin de là, mais l'objectif était de faire une première ébauche, j'ai pris beaucoup de plaisir à le mettre en place. | Réussir l'update : Merci beaucoup pour le coup de main. Globalement, un peu de mal avec la doc Airtable, mais une fois compris ça roule seul.    | L'objectif est de faire évoluer le projet dans son ensemble : Inscription, authentification etc..  |
 
 
 
